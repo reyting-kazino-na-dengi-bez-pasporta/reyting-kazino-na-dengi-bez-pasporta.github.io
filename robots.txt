@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: reyting-kazino-na-dengi-bez-pasporta.github.io
+Sitemap: https://reyting-kazino-na-dengi-bez-pasporta.github.io/sitemap.xml
